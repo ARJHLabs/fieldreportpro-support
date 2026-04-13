@@ -22,7 +22,7 @@ Add your privacy policy link here once it is ready.
 
 Example:
 
-[Privacy Policy](https://yourwebsite.com/privacy)
+[Privacy Policy](https://arjhlabs.github.io/fieldreportpro-support/privacy.html)
 
 ## Response Time
 
